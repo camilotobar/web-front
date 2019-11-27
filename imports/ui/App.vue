@@ -6,7 +6,7 @@
       dark
     >
       <v-app-bar-nav-icon v-if="this.$store.state.user.login"></v-app-bar-nav-icon>
-      <v-toolbar-title>LearnU</v-toolbar-title>
+      <v-toolbar-title>Knowledge Manager</v-toolbar-title>
       <v-spacer></v-spacer>
     </v-app-bar>
   </div>
